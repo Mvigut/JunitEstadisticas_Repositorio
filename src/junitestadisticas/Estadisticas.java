@@ -43,5 +43,6 @@ public class Estadisticas {
         return ""+resultado;
         
     }
-    
+    public void nuevometodo()
+    {System.out.println("Pruebas");}    
 }
